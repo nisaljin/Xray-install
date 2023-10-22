@@ -44,7 +44,7 @@ RELEASE_LATEST=''
 PRE_RELEASE_LATEST=''
 
 # Xray version will be installed
-INSTALL_VERSION=''
+INSTALL_VERSION='1.7.5'
 
 # install
 INSTALL='0'
@@ -86,7 +86,7 @@ N_UP_SERVICE='0'
 REINSTALL='0'
 
 # --version ?
-SPECIFIED_VERSION=''
+SPECIFIED_VERSION='1.7.5'
 
 # --local ?
 LOCAL_FILE=''
